@@ -1,0 +1,20 @@
+{
+  "name": "ak",
+  "version": "1.0.0",
+  "description": "THis the website",
+  "main": "node7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aakash",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "keywords": [
+    "aakash"
+  ]
+}
